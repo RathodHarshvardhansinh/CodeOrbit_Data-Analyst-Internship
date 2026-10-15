@@ -1,0 +1,25 @@
+# CodeOrbit Tech — Data Cleaning Project
+
+**Project:** Data Cleaning in Python  
+**Tool:** Python and pandas
+
+## Objective
+To clean a sample sales dataset by handling duplicates, missing values, formatting issues, and inconsistent data.
+
+## Steps Performed
+1. Loaded the original CSV dataset using pandas.
+2. Removed duplicate rows.
+3. Removed unnecessary spaces from text fields.
+4. Standardized product, category, and region capitalization.
+5. Converted order dates into a consistent date format.
+6. Converted quantity and unit price into numeric values.
+7. Filled missing text values with "Unknown".
+8. Filled missing numeric values using the median.
+9. Calculated sales by multiplying quantity by unit price.
+10. Exported the cleaned data to a new CSV file.
+
+## Output
+The cleaned dataset was saved as `cleaned_sales.csv`.
+
+## Conclusion
+This project demonstrates how Python and pandas can prepare an inconsistent sales dataset for further analysis.

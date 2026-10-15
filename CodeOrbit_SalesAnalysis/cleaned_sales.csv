@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Sales
+ORD001,2026-09-01,Laptop,Electronics,West,2.0,40000.0,80000.0
+ORD002,2026-09-02,Chair,Furniture,North,3.0,2500.0,7500.0
+ORD003,2026-09-03,Mouse,Electronics,West,5.0,500.0,2500.0
+ORD004,2026-09-04,Desk,Furniture,South,1.0,7000.0,7000.0
+ORD005,2026-09-05,Keyboard,Electronics,East,4.0,1200.0,4800.0
+ORD006,2026-09-06,Monitor,Electronics,North,3.0,12000.0,36000.0
+ORD007,2026-09-07,Unknown,Furniture,South,2.0,3500.0,7000.0
+ORD008,2026-09-08,Mouse,Electronics,West,3.0,3500.0,10500.0
+ORD009,2026-09-09,Sofa,Furniture,West,1.0,18000.0,18000.0
+ORD010,2026-09-10,Usb Cable,Accessories,East,10.0,150.0,1500.0
